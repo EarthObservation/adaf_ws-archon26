@@ -12,3 +12,6 @@ To start, follow these steps:
 * You are now in a so called notebook, where you can run code
   * Run cells by pressing 'play' button, or press SHIFT+ENTER
   * Edit code in cells where needed
+ 
+---
+Copyright © 2026 ZRC SAZU
