@@ -7,7 +7,7 @@ This repo contains the materials for a short (45 minute) workshop on ADAF. This 
 ## Get started
 To start, follow these steps:
 
-* Go to Google Colab
+* Go to [Gogle Colab](https://colab.research.google.com/github/EarthObservation/adaf_ws-archon26/blob/main/adaf_ws-archon26.ipynb)
 * If needed, create a Google account and/or log in to your Google account
 * You are now in a so called notebook, where you can run code
   * Run cells by pressing 'play' button, or press SHIFT+ENTER
